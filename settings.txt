@@ -1,0 +1,11 @@
+========================================================
+SETTINGS FILE FOR ROCKET DATALOGGER
+DO NOT EDIT ORDER OF SETTINGS OR THE HASH MARKERS
+program looks for hash markers either side of variables
+========================================================
+BAROMETER OVERSAMPLE RATE - can be 0 to 7, the ratio being the power of two (2^0 to 2^7).
+#0#
+MINIMUM INTERVAL BETWEEN READINGS (In milliseconds).
+#100#
+FORCE STOP TIME FOR PROGRAM (In milliseconds).
+#3600000#
